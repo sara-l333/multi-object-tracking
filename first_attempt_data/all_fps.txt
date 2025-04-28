@@ -1,0 +1,67 @@
+Xavier:
+
+MOT20-01, YOLOX
+Normal: 7.232
+High Res: 2.675
+Low Res: 21.612
+
+MOT20-01, ByteTrack
+Normal: 19.751
+High Res: 18.717
+Low Res: 20.255
+
+
+MOT20-02, YOLOX
+4.809
+
+MOT20-02, ByteTrack
+49.458
+
+
+MOT20-03, YOLOX
+14.396
+
+MOT20-03, ByteTrack
+31.918
+
+
+MOT20-05, YOLOX
+4.876
+
+MOT20-05, ByteTrack
+42.935
+
+
+Orin:
+
+MOT20-01, YOLOX
+Normal: 24.292
+High Res: 12.599
+Low Res: 43.290
+
+MOT20-01, ByteTrack
+Normal: 55.498
+High Res: 55.212
+Low Res: 56.671
+
+
+MOT20-02, YOLOX
+28.178
+
+MOT20-02, ByteTrack
+143.107
+
+
+MOT20-03, YOLOX
+37.976
+
+MOT20-03, ByteTrack
+105.206
+
+
+MOT20-05, YOLOX
+29.498
+
+MOT20-05, ByteTrack
+159.990
+
