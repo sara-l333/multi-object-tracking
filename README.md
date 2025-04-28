@@ -8,8 +8,12 @@ YOLOX repositories:
 ByteTrack repository:
 - https://github.com/mikel-brostrom/boxmot
 
-trtutils:
+trtutils (tensorrt utilities, author Justin Davis):
 - https://trtutils.readthedocs.io/en/latest/tutorials/yolo/yolox.html
+
+Dataset:
+- https://motchallenge.net/data/MOT20/
+
 
 
 Project authored by Sara Larson and Ethan Sims. 
